@@ -32,5 +32,5 @@ dependencyResolutionManagement {
         maven("https://maven.pkg.jetbrains.space/public/p/ktor/eap")
     }
 }
-rootProject.name = "jetpackComposeKtsTemplate"
+rootProject.name = "JetpackComposeTemplate"
 include(":app")

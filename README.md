@@ -1,13 +1,13 @@
 # Jetpack Compose Kts Template.
 
-a template use jetpack compose with kotlin gradle
+这是一个Jetpack Compose安卓模板。使用 kts Gradle构建。
 
-1. kotlin gradle (gradle.kts)
-2. jetpack compose
+## 模块有啥
+
+1. 本模板带有常用的依赖，皆已注释。
+2. 依赖或者插件的版本尽量使用最新的。
 
 
-## Value
+## 贡献
 
-1. compose.version = 1.1.1
-2. kotlin.version = 1.6.10
-3. android.tool.version = 7.2.1
+1. 请直接fork后提交。

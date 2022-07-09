@@ -1,4 +1,4 @@
-package top.notbe.jetpackComposeKtsTemplate
+package top.notbe.jetpackComposeTemplate
 
 import org.junit.Test
 
